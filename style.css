@@ -92,7 +92,7 @@ p, a {
     grid-column: 1/-1;
     width: 100%; 
     position: relative;
-    margin-top: auto;
+    margin-top: 6.7em;
 }
 
 #large {
